@@ -12,7 +12,7 @@
        <arg name="spawn_2x" default="0."/>	
        <arg name="spawn_2y" default="5."/>	
        <arg name="spawn_2z" default="20"/>	
-       <arg name="obstacle" default="true"/>	
+       <arg name="obstacle" default="false"/>	
 	<arg name="obstacle_location_x" default="-0.5"/>	
 	<arg name="obstacle_location_y" default="2.5"/>	
 	<arg name="obstacle_location_z" default="-6"/>	
@@ -43,4 +43,3 @@
 
 
 </launch>
-
