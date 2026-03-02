@@ -1,3 +1,4 @@
 std_msgs/Header stamp
-float32 propeller_force
-
+float32 propeller_force_x
+float32 propeller_force_y
+float32 propeller_moment_z
